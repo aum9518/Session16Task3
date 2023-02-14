@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dac08281-a647-44fb-a294-62ce25d67984" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session16Task3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Daugther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mother.java" afterDir="false" />
-    </list>
+    <list default="true" id="dac08281-a647-44fb-a294-62ce25d67984" name="Changes" comment="add called methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +58,26 @@
       <option name="presentableId" value="Default" />
       <updated>1676374435744</updated>
     </task>
+    <task id="LOCAL-00001" summary="add called methods">
+      <created>1676377449597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676377449598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add called methods">
+      <created>1676377558555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676377558556</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add called methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="add called methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

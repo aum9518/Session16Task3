@@ -4,6 +4,7 @@ public class Mother {
     private String eyeColor;
     public String gettName(){
         return name + " this is mother ";
+
     }
 
     public String getName() {

@@ -9,6 +9,7 @@ public class Main {
         Mother[] daugthers = {daughter,daughter1,mother,mother2};
         for (Mother a:daugthers) {
             System.out.println(a.gettName());
+
         }
     }
 }

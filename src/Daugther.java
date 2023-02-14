@@ -39,6 +39,7 @@ public class Daugther extends Mother{
     @Override
     public String gettName() {
         return getName() + " this is daughter ";
+
     }
 
     @Override
